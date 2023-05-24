@@ -1,5 +1,4 @@
-
-""""
+"""
 from main.math_string_functions import *
 
 
@@ -35,8 +34,8 @@ def test_reverse_string():
 
 """
 
-
 from main.math_string_functions import add_numbers, subtract_numbers, multiply_numbers, divide_numbers 
+
 
 #testing math functions
 
@@ -44,3 +43,4 @@ print(add_numbers(2, 3))
 print(subtract_numbers(8, 4))
 print(multiply_numbers(7, 2))
 print(divide_numbers(20, 10))
+
