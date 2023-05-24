@@ -1,0 +1,6 @@
+dist/
+my_project.egg-info/
+venv/
+setup.py/
+main/__init__.py
+tests/__pycache__
